@@ -10,6 +10,3 @@ https://www.emxp.net/EMuSer.htm
 
 
 
-```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-```
