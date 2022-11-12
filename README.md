@@ -6,4 +6,10 @@ forked from KRIS VAN DE CAPPELLE
 
 https://www.emxp.net/EMuSer.htm
 
-![](C:\Users\slette\Google Drive\Github\EMuSer\emuser_pcb.png)
+![pcb](https://github.com/futschikato/EMuSer/blob/main/emuser_pcb.png?raw=true)
+
+
+
+```
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+```
